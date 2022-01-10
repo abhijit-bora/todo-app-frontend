@@ -39,7 +39,7 @@ function App() {
           {alert && alerttype === "error" ? (
             <AlertWarning message={alertmessage} />
           ) : null}
-          {/* <Footer/> */}
+          { <Footer/> }
         </div>
       ) : (
         <AuthForm />

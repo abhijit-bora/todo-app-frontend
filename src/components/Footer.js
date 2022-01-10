@@ -3,9 +3,9 @@ import { Icon } from "semantic-ui-react";
 export default function Footer() {
   return (
     <div className="footer">
-      <p>
-        Developed by (Priyam Poddar) <Icon size="large" name="github" />
-      </p>
+      <p5>
+        Developed by (Abhijit Bora) 
+      </p5>
     </div>
   );
 }

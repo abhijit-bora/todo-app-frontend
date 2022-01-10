@@ -51,11 +51,13 @@
   z-index: 5000;
 }
 .footer {
-  width: 100vw;
+  
 
-  text-align: center;
-  font-size: 2rem;
+  text-align: right;
+  font-size: small;
   margin-bottom: 20px;
+  margin-right: auto;
+
 }
 .welcome {
   position: absolute;
